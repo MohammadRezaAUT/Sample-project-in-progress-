@@ -9,3 +9,7 @@
   .mr-1 {
     margin-right: 0.25rem;
   }
+  /* ======================================================= */
+.btn-hover :first-of-type{
+  font-size: 20px !important;
+}
